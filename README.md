@@ -1,4 +1,7 @@
 Created a simple todo app using react 
+### `yarn install`
+will install all the required dependencies
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
